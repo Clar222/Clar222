@@ -1,4 +1,4 @@
-## Hi there 👋
+## 영남대 재학중인 컴퓨터공학 24학번 김유찬입니다.
 
 <!--
 **Clar222/Clar222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
